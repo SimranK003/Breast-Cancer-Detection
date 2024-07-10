@@ -1,6 +1,4 @@
-#Kaidoko
-
-# Breast Cancer Prediction Task
+# Kaidoko Breast Cancer Prediction Task
 
 ## Purpose
 The goal of this task is to predict whether a subject has breast cancer based on various features derived from medical examinations.
